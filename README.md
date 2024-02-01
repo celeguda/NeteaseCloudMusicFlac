@@ -9,7 +9,7 @@ NeteaseCloudMusicFlac is being sponsored by the following tool; please help to s
 * [Elixir 实现](https://github.com/YongHaoWu/NeteaseCloudMusicFlacElixir)
 * [golang 实现](https://github.com/lifei6671/NeteaseCloudMusicFlac)
 
-根据网易云音乐歌单, 下载对应无损FLAC歌曲到本地.
+
 
 ### BackGround
 现在无损资源基本都是专辑, 很难找到单曲来下载.
